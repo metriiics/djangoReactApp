@@ -9,7 +9,7 @@
 ![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=316192)
 ![REST API](https://img.shields.io/badge/API-REST-informational?style=flat&logo=rest-api&color=61DAFB)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&)
 
 
 ## About
